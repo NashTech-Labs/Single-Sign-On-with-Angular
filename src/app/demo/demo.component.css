@@ -1,0 +1,24 @@
+.bg-transparent {
+  background-color: transparent;
+}
+
+:host {
+  height: 100%;
+}
+
+.photo {
+  object-fit: contain;
+}
+
+.card {
+  width: 20rem;
+  margin: 0 auto;
+}
+
+.nav-bar{
+  text-align: center;
+}
+
+.box-heading{
+  background-color: #5bc0de;
+}
