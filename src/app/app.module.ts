@@ -9,9 +9,9 @@ import { DemoComponent } from './demo/demo.component';
 import {
   SocialLoginModule,
   FacebookLoginProvider,
-  AmazonLoginProvider,
   SocialAuthServiceConfig,
-} from 'lib';
+  AmazonLoginProvider
+} from 'angularx-social-login';
 
 @NgModule({
   declarations: [AppComponent, NavbarComponent, DemoComponent],

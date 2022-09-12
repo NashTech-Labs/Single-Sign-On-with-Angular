@@ -208,7 +208,7 @@
     "uuid" "8.3.2"
     "yargs" "17.4.1"
 
-"@angular/common@^14.0.3", "@angular/common@14.0.3":
+"@angular/common@^12.0.0", "@angular/common@^14.0.3", "@angular/common@14.0.3":
   "integrity" "sha512-JOM6gILQ3+9fOq4r2umdEP2T2t45k7+V19AqNYgV4HVAR392wCc+rYbdq9eqszMUNfUUBxA/ZfDcGYUu/C/gdA=="
   "resolved" "https://registry.npmjs.org/@angular/common/-/common-14.0.3.tgz"
   "version" "14.0.3"
@@ -238,7 +238,7 @@
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/core@^14.0.3", "@angular/core@14.0.3", "@angular/core@14.0.4":
+"@angular/core@^12.0.0", "@angular/core@^14.0.3", "@angular/core@14.0.3", "@angular/core@14.0.4":
   "integrity" "sha512-Z71BrEIJuMGm/BdK9Lh8IJwADQqA8qPeUVppCs67CABZdwA3sK0kC+iobauWXcweXU30BdQYc7HyZe2x7rcdmQ=="
   "resolved" "https://registry.npmjs.org/@angular/core/-/core-14.0.3.tgz"
   "version" "14.0.3"
@@ -2219,6 +2219,13 @@
     "json-schema-traverse" "^1.0.0"
     "require-from-string" "^2.0.2"
     "uri-js" "^4.2.2"
+
+"angularx-social-login@^4.1.0":
+  "integrity" "sha512-nSYLvGhI7MZtN/RxRie5GEl/rytIJPRPeSQSgiXbDESJC9zjuik629kqMCPnLCRk5SfTBrXSNcpZ8X/5kgsDKg=="
+  "resolved" "https://registry.npmjs.org/angularx-social-login/-/angularx-social-login-4.1.0.tgz"
+  "version" "4.1.0"
+  dependencies:
+    "tslib" "^2.0.0"
 
 "ansi-colors@^4.1.1", "ansi-colors@4.1.1":
   "integrity" "sha512-JoX0apGbHaUJBNl6yF+p6JAFYZ666/hhCGKN5t9QFjbJQKUU/g8MNbFDbvfrgKXvI1QpZplPOnwIo99lX/AAmA=="
